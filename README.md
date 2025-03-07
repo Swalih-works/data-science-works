@@ -1,7 +1,7 @@
 # data-science-works
 Here are some analysis that i've done using python.
 
-## 1. Basics_Statistics - [CODE](Basic_Statistics-1.ipynb) 
+## 1. Basics_Statistics - [click_for_code](Basic_Statistics-1.ipynb) 
 Performed descriptive analytics, data visualization, and preprocessing on a sales dataset that includes discount-related information.
 
 ### Descriptive Statistics for Numerical Columns
